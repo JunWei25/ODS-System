@@ -1,7 +1,7 @@
 # ODS-System
 Order Delivery System, a DCOMS(Distributed Computer Systems) Module assignment.
 
-## Technologies involved in the project:
+### Technologies involved in the project:
 Front end: Java Swing
 Backend: Java DB
 Others: Passowrd Hashing, Remote Method Interface(RMI), Serialization. 
