@@ -6,6 +6,9 @@ Front end: Java Swing <br>
 Backend: Java DB <br>
 Others: Passowrd Hashing, Remote Method Interface(RMI), Serialization. 
 
+### Time taken to complete my tasks:
+9 days.
+
 # Project Background
   The KGF Group Malaysia, a multinational company which focuses mainly on e-commerce. The e-commerce company is best known for its top selling categories like Baby products, Accessories, Home Appliances and Mobile phones through e-commerce platform. At present, the company is using a ODS (Order Delivery System) to handle product delivery, but they feel that the system did not seem to be an easy-to-use platform and it’s not able to handle product delivery as the demand for products are getting increased day by day. So, they would like to have a **ODS (Order Delivery System)** that eliminates the current shortfalls and take control of delivery operations, increase revenue, and delight customers with a single, easy to use platform. 
 
