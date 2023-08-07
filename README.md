@@ -4,7 +4,7 @@ Order Delivery System, a DCOMS(Distributed Computer Systems) Module assignment.
 ### Technologies involved in the project:
 Front end: Java Swing <br>
 Backend: Java DB <br>
-Others: Passowrd Hashing, Remote Method Interface(RMI), Serialization. 
+Others: Distributed Computing,Passowrd Hashing, Remote Method Interface(RMI), Serialization. 
 
 ### Time taken to complete my tasks:
 9 days.
